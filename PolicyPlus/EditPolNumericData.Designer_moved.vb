@@ -115,5 +115,3 @@ Partial Class EditPolNumericData
     Friend WithEvents TextName As TextBox
     Friend WithEvents CheckHexadecimal As CheckBox
     Friend WithEvents ButtonOK As Button
-    Friend WithEvents NumData As WideRangeNumericUpDown
-End Class
